@@ -3,11 +3,13 @@ Customer Purchase Trend Analysis
   This project analyzes 3,900 customer purchase records to identify trends in buying behavior, product demand, revenue contribution, and customer engagement. It   includes data loading, EDA, cleaning, SQL queries, a Power BI dashboard, a written report, and a final presentation created using Gamma.
 
 ⭐ Overview
+
   The goal of this project is to understand who the customers are, what they buy, and how they shop.
-  The analysis examines demographics, purchase details, discount patterns, subscription behavior, shipping choices, and seasonal buying trends to produce   actionable insights for business decisions.
+  The analysis examines demographics, purchase details, discount patterns, subscription behavior, shipping choices, and seasonal buying trends to produce actionable insights for business decisions.
   This end-to-end analytics workflow demonstrates skills across Python, SQL, visualization, storytelling, and dashboard development.
 
 📁 Dataset
+
   Rows: 3,900
   Columns: 18
   Includes: demographics, purchase amount, item data, season, ratings, subscription, shipping type, previous purchases, and more.
@@ -18,8 +20,11 @@ Customer Purchase Trend Analysis
   cuatomer_behavior
   
 🛠 Tools & Technologies
+
   Python (Pandas, NumPy, Matplotlib, Seaborn)
+  
   SQL (PostgreSQL / MySQL / SQL Server)
+  
   Power BI (Interactive dashboard)
   Gamma.app (AI-powered presentation creation)
   Jupyter Notebook
