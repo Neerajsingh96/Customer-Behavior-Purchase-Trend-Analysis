@@ -130,6 +130,6 @@ Open: customer_behavior.pbix
 Report: Customer-Purchase-Trend-Analysis.pdf
 PPT: Customer-Purchase-Trend-Analysis.pdf
 
-# 📞 Contact
+# 🖂 Contact
 neerajsingh0558@gmail.com
 If you're interested in collaboration or feedback, feel free to reach out!
